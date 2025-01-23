@@ -33,3 +33,5 @@
 </div>
 
 ###
+
+![snake gif](https://github.com/RapidMesck/RapidMesck/blob/output/github-snake-dark.svg)
