@@ -10,7 +10,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,docker,prisma,nodejs,tailwind,react,nextjs,nestjs,mysql,postgres,py,java,linux)]
+![My Skills](https://skillicons.dev/icons?i=js,ts,docker,prisma,nodejs,tailwind,react,nextjs,nestjs,mysql,postgres,py,java,linux)
 
 ###
 
